@@ -6,6 +6,6 @@ int main ()
  scanf ("%d"&a);
  printf("Enter value of v");
  scanf ("%d"&v);
- printf ("multi is = %d", a*v);
+ printf ("multi is: %d", a*v);
  return 0;
 }
